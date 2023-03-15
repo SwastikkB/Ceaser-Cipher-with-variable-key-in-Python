@@ -1,4 +1,4 @@
-# Ceaser-Cipher-with-variable-key-in-Python
+# Caeser-Cipher-with-variable-key-in-Python
 Encrypts Normal text into cipher text with any key which can be entered by user , made using very basic python
 
 what this program does it that it contains a dictionary with alphabet:number as key:value pair 
